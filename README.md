@@ -1,3 +1,10 @@
+# Demo
+
+<p align="center">
+  <img src="https://i.imgur.com/0angXrr.gif" width="350" title="hover text">
+
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
